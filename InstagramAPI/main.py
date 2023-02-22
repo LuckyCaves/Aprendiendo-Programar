@@ -8,4 +8,4 @@ url = f"https://graph.instagram.com/me/media?fields={fields}&access_token={token
 
 r = re.get(url)
 
-print("ulises es un pendejo")
+print("ulises es un super pendejo")
